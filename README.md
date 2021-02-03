@@ -14,7 +14,10 @@
 
 # Use at your own risk
   The script has been tested but that doesn't mean there is not a single rare case <br>
-  when Canvas detects you leaving the page.
+  when Canvas detects you leaving the page even if you are using it.
   
   Also note the environment the script was tested in. You might get a different result <br>
   in a different browser.
+  
+  *The script was created to test if there is a way to trick Canvas. I DO NOT encourage <br>
+  anyone to use it for cheating!*
