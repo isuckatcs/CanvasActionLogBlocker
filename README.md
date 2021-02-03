@@ -5,9 +5,7 @@
   - Tampermonkey or any similar userscript manager
 
 # How to use
-  1. Add the script to Tampermonkey by clicking [here](https://github.com/drieda/CanvasActionLogBlocker/raw/main/CanvasLogBlocker.user.js)
-  
-   *Note: the script fires on EVERY quiz taking page, but ONLY on quiz taking pages*
+  1. Add the script to Tampermonkey by clicking [here](https://github.com/drieda/CanvasActionLogBlocker/raw/main/CanvasLogBlocker.user.js) <br><br> *Note: the script fires on EVERY quiz taking page, but ONLY on quiz taking pages*
 
 # Test environment
   - Google Chrome 88.0.4324.146
