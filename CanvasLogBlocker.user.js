@@ -3,7 +3,7 @@
 // @namespace    Canvas Action Log Blocker v1.0
 // @version      1.0
 // @description  A small bruteforce script that prevents Canvas detecting you leaving the quiz page
-// @downloadURL  https://github.com/drieda/CanvasActionLogBlocker/blob/main/CanvasLogBlocker.js
+// @downloadURL  https://github.com/drieda/CanvasActionLogBlocker/raw/main/CanvasLogBlocker.user.js
 // @author       drieda
 // @match        https://{-YOUR_INSTITUTE_URL-}/*/quizzes/*
 // @grant        none
