@@ -1,5 +1,5 @@
 # CanvasActionLogBlocker
-  A small bruteforce script that prevents Canvas detecting you leaving the quiz page
+  A small bruteforce script that prevents Canvas from detecting you leaving the quiz page
 
 # Requirements
   - Tampermonkey or any similar userscript manager
