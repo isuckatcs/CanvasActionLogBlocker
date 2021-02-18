@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Canvas Action Log Blocker
-// @namespace    Canvas Action Log Blocker v1.0
+// @namespace    Canvas Action Log Blocker v1.1
 // @version      1.1
 // @description  A small bruteforce script that prevents Canvas detecting you leaving the quiz taking page
 // @downloadURL  https://github.com/isuckatcs/CanvasActionLogBlocker/raw/main/CanvasLogBlocker.user.js
